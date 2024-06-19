@@ -22,7 +22,6 @@
 "搜索url":"https://njav.xyz/zh/search?keyword={wd}",
 "分类url":"https://njav.xyz/zh/{cateId}?page={catePg}",
 "分类":"全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"},"jar":"https://gitee.com/software-talent-live-source/tt/raw/master/jar/Yoursmile.jar;md5;D1BD4073B5485768E739A712610AE8D4"},
-	  {"key": "T4-安博","name": "唐三","type": 4,"api": "https://tang.serv00.net/power/ub1818", "searchable": 1, "quickSearch": 1, "filterable": 1,"changeable": 0,"ext": true},
     {
       "key": "量子",
       "name": "量子",
