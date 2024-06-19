@@ -10,6 +10,18 @@
       "searchable": 1,
       "ext": "1"
     },
+	  {
+            "key": "姐姐",
+            "name": "玩偶",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "图片": "data-src=\"&&\"",
+                "直接播放": "1",
+                "分类url": "https://hongkongdollvideo.com/{cateId}/{catePg}.html",
+                "分类": "麻豆$麻豆传媒#天美$天美传媒#91$91制片厂#蜜桃$蜜桃传媒#香港$Hongkong Doll#皇家$皇家华人#精东$精东影业#乐播$乐播传媒#成人$成人头条#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog",
+                "页面代理": "127.0.0.1:10808"
+            },"jar":"https://gitee.com/software-talent-live-source/tt/raw/master/jar/Yoursmile.jar;md5;D1BD4073B5485768E739A712610AE8D4"},
 	  {"key":"csp_njav","name":"njav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
 "数组":"class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
 "图片":"data-preview=\"&&\"",
